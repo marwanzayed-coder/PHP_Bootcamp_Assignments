@@ -30,19 +30,19 @@
 
 ### Week One
 
-- [x] [Assignment 1](./week_one/assignment_1.php)
-- [x] [Assignment 2](./week_one/assignment_2.php)
-- [x] [Assignment 3](./week_one/assignment_3.php)
-- [x] [Assignment 4](./week_one/assignment_4.php)
+- [x] `Solve` [Assignment 1](./week_one/assignment_1.php)
+- [x] `Solve` [Assignment 2](./week_one/assignment_2.php)
+- [x] `Solve` [Assignment 3](./week_one/assignment_3.php)
+- [x] `Solve` [Assignment 4](./week_one/assignment_4.php)
 
 
 ### Week Two
 
-- [ ] [Assignment 1](./week_two/assignment_1.php)
-- [ ] [Assignment 2](./week_two/assignment_2.php)
-- [ ] [Assignment 3](./week_two/assignment_3.php)
-- [ ] [Assignment 4](./week_two/assignment_4.php)
-- [ ] [Assignment 5](./week_two/assignment_5.php)
-- [ ] [Assignment 6](./week_two/assignment_6.php)
-- [ ] [Assignment 7](./week_two/assignment_7.php)
-- [ ] [Assignment 8](./week_two/assignment_8.php)
+- [x] `Solve` [Assignment 1](./week_two/assignment_1.php)
+- [x] `Solve` [Assignment 2](./week_two/assignment_2.php)
+- [x] `Solve` [Assignment 3](./week_two/assignment_3.php)
+- [x] `Solve` [Assignment 4](./week_two/assignment_4.php)
+- [x] `Solve` [Assignment 5](./week_two/assignment_5.php)
+- [x] `Solve` [Assignment 6](./week_two/assignment_6.php)
+- [x] `Solve` [Assignment 7](./week_two/assignment_7.php)
+- [x] `Solve` [Assignment 8](./week_two/assignment_8.php)

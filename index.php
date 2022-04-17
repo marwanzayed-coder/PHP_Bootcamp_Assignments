@@ -70,7 +70,7 @@
     </style>
   </head>
   <body>
-  	<div class="week">
+    <div class="week">
       <div class="card">
         <div class="head">
           <h2>Week One</h2>
@@ -83,6 +83,26 @@
         </div>
         <hr>
       </div>
-  	</div>
+    </div>
+
+    <div class="week">
+      <div class="card">
+        <div class="head">
+          <h2>Week Two</h2>
+        </div>
+        <div class="list">
+          <a href="week_two/assignment_1.php" class="box">Assignment 1</a>
+          <a href="week_two/assignment_2.php" class="box">Assignment 2</a>
+          <a href="week_two/assignment_3.php" class="box">Assignment 3</a>
+          <a href="week_two/assignment_4.php" class="box">Assignment 4</a>
+          <a href="week_two/assignment_5.php" class="box">Assignment 5</a>
+          <a href="week_two/assignment_6.php" class="box">Assignment 6</a>
+          <a href="week_two/assignment_7.php" class="box">Assignment 7</a>
+          <a href="week_two/assignment_8.php" class="box">Assignment 8</a>
+        </div>
+        <hr>
+      </div>
+    </div>
   </body>
 </html>
+
